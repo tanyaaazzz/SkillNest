@@ -24,6 +24,9 @@ Context API
 **Integrations & Libraries**
 React YouTube (react-youtube) • Clerk Authentication
 
+**Deployment**
+Vercel
+
 
 ---
 
